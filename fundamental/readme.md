@@ -31,7 +31,7 @@ kafka-server-start.sh config/server.properties
 ## Producer
 * Create kafka console producer
 ```
-kafka-console-producer.sh --broker-list localhost:9092 --topic first_topic
+kafka-console-producer.sh --brorintr-list localhost:9092 --topic first_topic
 ```
 * Create kafka console producer with ack
 ```
