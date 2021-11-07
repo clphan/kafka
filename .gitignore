@@ -1,0 +1,5 @@
+kafka-ops/iac/.terraform
+kafka-ops/iac/.terraform/*
+kafka-ops/iac/.terraform.lock.hcl
+kafka-ops/iac/terraform.tfstate
+kafka-ops/iac/terraform.tfstate.backup
